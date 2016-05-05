@@ -2,7 +2,7 @@ Search
 
 
 
-Search is the most important tool for end users in order to manage their files. This is a simple Python Program implementing search along with various options.
+Search is the most important tool for end users in order perform a search operation in the file hierarchy. This is a simple Python Program implementing search along with various options.
 
 How to use it:
 The program main_program.py should be executed using the 'python main_program.py' command. After running the command it will display the menu and ask you to enter the option.
